@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Adityaraj Singha</h1>
 <h3 align="center">A curious and an explorer in coding</h3>
 
-- 🔭 I’m currently working in **Emergx.ai**
-
 - 📫 How to reach me **rockcraze01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
