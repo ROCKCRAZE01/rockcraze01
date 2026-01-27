@@ -11,7 +11,6 @@
     </td>
 
 <td style="border:none; vertical-align: middle;">
-  <a href="https://git.io/typing-svg">
     <img 
       src="https://readme-typing-svg.herokuapp.com?font=Honk&size=50&duration=2000&pause=2000&center=false&vCenter=true&random=false&width=500&height=70&lines=HELLO;THIS+IS+ROCKCRAZE01;AKA+ADITYARAJ+SINGHA"
       alt="HELLO THIS IS ROCKCRAZE01 AKA ADITYARAJ SINGHA"
