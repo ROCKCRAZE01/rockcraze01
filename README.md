@@ -6,19 +6,20 @@
       <img 
         src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
         width="400"
-        style="pointer-events: none;"
+        style="pointer-events: none; display: block;"
       />
     </td>
 
-<td style="border:none; vertical-align: middle;" align= "center">
+  <td style="border:none; vertical-align: middle; text-align: center;">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Honk&size=50&duration=2000&pause=2000&center=false&vCenter=true&random=false&width=500&height=70&lines=HELLO;THIS+IS+ROCKCRAZE01;AKA+ADITYARAJ+SINGHA"
+      src="https://readme-typing-svg.herokuapp.com?font=Honk&size=50&duration=2000&pause=2000&center=true&vCenter=true&random=false&width=500&height=70&lines=HELLO;THIS+IS+ROCKCRAZE01;AKA+ADITYARAJ+SINGHA"
       alt="HELLO THIS IS ROCKCRAZE01 AKA ADITYARAJ SINGHA"
+      style="display: block; margin: auto;"
     />
-  </a>
-</td>
+  </td>
   </tr>
 </table>
+
 
 </div>
 
